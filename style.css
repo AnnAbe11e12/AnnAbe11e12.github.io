@@ -18,8 +18,10 @@ img{
 
 
 h1:hover{
-	color:#ff0066;
+	color:#ff1a75;
 	font-size:100px;
+	-webkit-text-stroke-width: 10px;
+  -webkit-text-stroke-color: black;
 }
 
 

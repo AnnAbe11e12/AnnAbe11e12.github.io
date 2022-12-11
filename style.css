@@ -20,7 +20,7 @@ img{
 h1:hover{
 	color:#3333ff;
 	font-size:100px;
-	-webkit-text-stroke-width: 10px;
+	-webkit-text-stroke-width: 20px;
   -webkit-text-stroke-color: black;
 }
 
